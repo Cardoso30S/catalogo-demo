@@ -48,9 +48,9 @@ window.CATALOGO_CONFIG = {
 
   // número que recebe os pedidos (DDI + DDD + número, só dígitos).
   // Vazio: o WhatsApp abre com a mensagem pronta e a pessoa escolhe para quem enviar.
-  whatsapp: '',
+  whatsapp: '5512991305423',
   contato: {
-    whats: '(00) 90000-0000',     // WhatsApp da empresa, como aparece escrito
+    whats: '(12) 99130-5423',     // WhatsApp da empresa, como aparece escrito
     tele: '',                     // televendas (deixe '' para não mostrar)
     site: 'cardoso30s.github.io/catalogo-demo',  // endereço do catálogo online
     instagram: ''                 // sem @ (deixe '' para não mostrar)
