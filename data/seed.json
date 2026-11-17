@@ -1,0 +1,2105 @@
+{
+ "versao": 1,
+ "gerado": "demonstração pública com dados fictícios",
+ "produtos": [
+  {
+   "id": "CC1101",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Fiat",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1101",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "3 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1101.jpg",
+   "novo": false,
+   "preco": 39.9
+  },
+  {
+   "id": "CC1102",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Fiat",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1102",
+     "obs": "2BT"
+    },
+    {
+     "c": "CC1103",
+     "obs": "3BT",
+     "preco": 39.9
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/CC1102.jpg",
+   "novo": false,
+   "preco": 34.9
+  },
+  {
+   "id": "CC1104",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Fiat",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1104",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "3 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1104.jpg",
+   "novo": true,
+   "preco": 44.9
+  },
+  {
+   "id": "CC1105",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Fiat",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1105",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "4 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1105.jpg",
+   "novo": false,
+   "preco": 49.9
+  },
+  {
+   "id": "CC1201",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "GM / Chevrolet",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1201",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "3 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1201.jpg",
+   "novo": false,
+   "preco": 42.9,
+   "oferta": true
+  },
+  {
+   "id": "CC1202",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "GM / Chevrolet",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1202",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "2 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1202.jpg",
+   "novo": false,
+   "preco": 38.9
+  },
+  {
+   "id": "CC1203",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "GM / Chevrolet",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1203",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "4 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1203.jpg",
+   "novo": false,
+   "preco": 47.9
+  },
+  {
+   "id": "CC1204",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "GM / Chevrolet",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1204",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "3 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1204.jpg",
+   "novo": false,
+   "preco": 44.9
+  },
+  {
+   "id": "CC1301",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Ford",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1301",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "3 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1301.jpg",
+   "novo": false,
+   "preco": 44.9
+  },
+  {
+   "id": "CC1302",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Ford",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1302",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "2 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1302.jpg",
+   "novo": false,
+   "preco": 39.9
+  },
+  {
+   "id": "CC1303",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Ford",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1303",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "4 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1303.jpg",
+   "novo": false,
+   "preco": 49.9,
+   "esgotado": true
+  },
+  {
+   "id": "CC1304",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Ford",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1304",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "3 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1304.jpg",
+   "novo": false,
+   "preco": 46.9
+  },
+  {
+   "id": "CC1401",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Volkswagen",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1401",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "3 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1401.jpg",
+   "novo": true,
+   "preco": 39.9
+  },
+  {
+   "id": "CC1402",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Volkswagen",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1402",
+     "obs": "2BT"
+    },
+    {
+     "c": "CC1403",
+     "obs": "3BT",
+     "preco": 39.9
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/CC1402.jpg",
+   "novo": false,
+   "preco": 36.9
+  },
+  {
+   "id": "CC1404",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Volkswagen",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1404",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "3 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1404.jpg",
+   "novo": false,
+   "preco": 42.9
+  },
+  {
+   "id": "CC1405",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Volkswagen",
+   "nome": "Carcaça canivete",
+   "codigos": [
+    {
+     "c": "CC1405",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "4 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CC1405.jpg",
+   "novo": false,
+   "preco": 52.9
+  },
+  {
+   "id": "CP2101",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Toyota",
+   "nome": "Carcaça presença",
+   "codigos": [
+    {
+     "c": "CP2101",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "4 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CP2101.jpg",
+   "novo": false,
+   "preco": 64.9
+  },
+  {
+   "id": "CP2102",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Toyota",
+   "nome": "Carcaça presença",
+   "codigos": [
+    {
+     "c": "CP2102",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "3 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CP2102.jpg",
+   "novo": false,
+   "preco": 59.9
+  },
+  {
+   "id": "CP2201",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Hyundai",
+   "nome": "Carcaça presença",
+   "codigos": [
+    {
+     "c": "CP2201",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "4 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CP2201.jpg",
+   "novo": true,
+   "preco": 66.9
+  },
+  {
+   "id": "CP2202",
+   "cat": "geral",
+   "categoria": "Carcaças",
+   "marca": "Hyundai",
+   "nome": "Carcaça presença",
+   "codigos": [
+    {
+     "c": "CP2202",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "3 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CP2202.jpg",
+   "novo": false,
+   "preco": 61.9
+  },
+  {
+   "id": "CHC3101",
+   "cat": "geral",
+   "categoria": "Chave Completa",
+   "marca": "Fiat",
+   "nome": "Chave completa canivete",
+   "codigos": [
+    {
+     "c": "CHC3101",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Uno / Palio / Strada",
+   "tags": [
+    "com transponder"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CHC3101.jpg",
+   "novo": false,
+   "preco": 159.9
+  },
+  {
+   "id": "CHC3102",
+   "cat": "geral",
+   "categoria": "Chave Completa",
+   "marca": "Fiat",
+   "nome": "Chave completa canivete",
+   "codigos": [
+    {
+     "c": "CHC3102",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Argo / Cronos",
+   "tags": [
+    "com transponder"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CHC3102.jpg",
+   "novo": false,
+   "preco": 189.9
+  },
+  {
+   "id": "CHC3201",
+   "cat": "geral",
+   "categoria": "Chave Completa",
+   "marca": "Volkswagen",
+   "nome": "Chave completa canivete",
+   "codigos": [
+    {
+     "c": "CHC3201",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Gol / Voyage / Saveiro",
+   "tags": [
+    "com transponder"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CHC3201.jpg",
+   "novo": true,
+   "preco": 169.9
+  },
+  {
+   "id": "CHC3202",
+   "cat": "geral",
+   "categoria": "Chave Completa",
+   "marca": "Volkswagen",
+   "nome": "Chave completa canivete",
+   "codigos": [
+    {
+     "c": "CHC3202",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Polo / Virtus",
+   "tags": [
+    "com transponder"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CHC3202.jpg",
+   "novo": false,
+   "preco": 199.9
+  },
+  {
+   "id": "GV4101",
+   "cat": "geral",
+   "categoria": "Chave Gaveta",
+   "marca": "Fiat",
+   "nome": "Chave gaveta",
+   "codigos": [
+    {
+     "c": "GV4101",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Uno / Fiorino",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/GV4101.jpg",
+   "novo": false,
+   "preco": 12.9
+  },
+  {
+   "id": "GV4102",
+   "cat": "geral",
+   "categoria": "Chave Gaveta",
+   "marca": "Fiat",
+   "nome": "Chave gaveta",
+   "codigos": [
+    {
+     "c": "GV4102",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Palio / Siena",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/GV4102.jpg",
+   "novo": false,
+   "preco": 13.9
+  },
+  {
+   "id": "GV4103",
+   "cat": "geral",
+   "categoria": "Chave Gaveta",
+   "marca": "Fiat",
+   "nome": "Chave gaveta",
+   "codigos": [
+    {
+     "c": "GV4103",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Doblò / Idea",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/GV4103.jpg",
+   "novo": false,
+   "preco": 13.9
+  },
+  {
+   "id": "GV4104",
+   "cat": "geral",
+   "categoria": "Chave Gaveta",
+   "marca": "Fiat",
+   "nome": "Chave gaveta",
+   "codigos": [
+    {
+     "c": "GV4104",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Strada / Toro",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/GV4104.jpg",
+   "novo": true,
+   "preco": 14.9
+  },
+  {
+   "id": "GV4301",
+   "cat": "geral",
+   "categoria": "Chave Gaveta",
+   "marca": "Volkswagen",
+   "nome": "Chave gaveta",
+   "codigos": [
+    {
+     "c": "GV4301",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Gol G3 / G4",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/GV4301.jpg",
+   "novo": false,
+   "preco": 12.9
+  },
+  {
+   "id": "GV4302",
+   "cat": "geral",
+   "categoria": "Chave Gaveta",
+   "marca": "Volkswagen",
+   "nome": "Chave gaveta",
+   "codigos": [
+    {
+     "c": "GV4302",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Fox / CrossFox",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/GV4302.jpg",
+   "novo": false,
+   "preco": 12.9
+  },
+  {
+   "id": "GV4303",
+   "cat": "geral",
+   "categoria": "Chave Gaveta",
+   "marca": "Volkswagen",
+   "nome": "Chave gaveta",
+   "codigos": [
+    {
+     "c": "GV4303",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Parati / Santana",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/GV4303.jpg",
+   "novo": false,
+   "preco": 13.9
+  },
+  {
+   "id": "GV4304",
+   "cat": "geral",
+   "categoria": "Chave Gaveta",
+   "marca": "Volkswagen",
+   "nome": "Chave gaveta",
+   "codigos": [
+    {
+     "c": "GV4304",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Up / Voyage",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/GV4304.jpg",
+   "novo": false,
+   "preco": 14.9
+  },
+  {
+   "id": "MT5101",
+   "cat": "geral",
+   "categoria": "Chave Gaveta Moto",
+   "marca": "Honda",
+   "nome": "Chave gaveta moto",
+   "codigos": [
+    {
+     "c": "MT5101",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "CG 160 / Bros",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/MT5101.jpg",
+   "novo": false,
+   "preco": 14.9
+  },
+  {
+   "id": "MT5102",
+   "cat": "geral",
+   "categoria": "Chave Gaveta Moto",
+   "marca": "Honda",
+   "nome": "Chave gaveta moto",
+   "codigos": [
+    {
+     "c": "MT5102",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Biz / Pop",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/MT5102.jpg",
+   "novo": true,
+   "preco": 15.9
+  },
+  {
+   "id": "MT5103",
+   "cat": "geral",
+   "categoria": "Chave Gaveta Moto",
+   "marca": "Honda",
+   "nome": "Chave gaveta moto",
+   "codigos": [
+    {
+     "c": "MT5103",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "XRE / Twister",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/MT5103.jpg",
+   "novo": false,
+   "preco": 15.9
+  },
+  {
+   "id": "MT5104",
+   "cat": "geral",
+   "categoria": "Chave Gaveta Moto",
+   "marca": "Honda",
+   "nome": "Chave gaveta moto",
+   "codigos": [
+    {
+     "c": "MT5104",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "PCX / Elite",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/MT5104.jpg",
+   "novo": false,
+   "preco": 16.9
+  },
+  {
+   "id": "MT5201",
+   "cat": "geral",
+   "categoria": "Chave Gaveta Moto",
+   "marca": "Yamaha",
+   "nome": "Chave gaveta moto",
+   "codigos": [
+    {
+     "c": "MT5201",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Factor / Fazer",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/MT5201.jpg",
+   "novo": false,
+   "preco": 14.9
+  },
+  {
+   "id": "MT5202",
+   "cat": "geral",
+   "categoria": "Chave Gaveta Moto",
+   "marca": "Yamaha",
+   "nome": "Chave gaveta moto",
+   "codigos": [
+    {
+     "c": "MT5202",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "Crosser / Lander",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/MT5202.jpg",
+   "novo": false,
+   "preco": 15.9
+  },
+  {
+   "id": "CPT6101",
+   "cat": "geral",
+   "categoria": "Controle de Portão",
+   "marca": "Clonix",
+   "nome": "Controle clonador",
+   "codigos": [
+    {
+     "c": "CPT6101",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "4 botões",
+    "433 MHz"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CPT6101.jpg",
+   "novo": true,
+   "preco": 24.9
+  },
+  {
+   "id": "CPT6102",
+   "cat": "geral",
+   "categoria": "Controle de Portão",
+   "marca": "Clonix",
+   "nome": "Controle clonador",
+   "codigos": [
+    {
+     "c": "CPT6102",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "2 botões",
+    "433 MHz"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CPT6102.jpg",
+   "novo": false,
+   "preco": 19.9
+  },
+  {
+   "id": "CPT6103",
+   "cat": "geral",
+   "categoria": "Controle de Portão",
+   "marca": "Clonix",
+   "nome": "Controle clonador",
+   "codigos": [
+    {
+     "c": "CPT6103",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "4 botões",
+    "433 MHz"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CPT6103.jpg",
+   "novo": false,
+   "preco": 27.9
+  },
+  {
+   "id": "CPT6104",
+   "cat": "geral",
+   "categoria": "Controle de Portão",
+   "marca": "Clonix",
+   "nome": "Controle clonador",
+   "codigos": [
+    {
+     "c": "CPT6104",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "1 botão",
+    "433 MHz"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CPT6104.jpg",
+   "novo": false,
+   "preco": 16.9
+  },
+  {
+   "id": "CPT6201",
+   "cat": "geral",
+   "categoria": "Controle de Portão",
+   "marca": "Portamax",
+   "nome": "Controle de portão",
+   "codigos": [
+    {
+     "c": "CPT6201",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "3 botões",
+    "433 MHz"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CPT6201.jpg",
+   "novo": false,
+   "preco": 29.9
+  },
+  {
+   "id": "CPT6202",
+   "cat": "geral",
+   "categoria": "Controle de Portão",
+   "marca": "Portamax",
+   "nome": "Controle de portão",
+   "codigos": [
+    {
+     "c": "CPT6202",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "2 botões",
+    "433 MHz"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CPT6202.jpg",
+   "novo": false,
+   "preco": 26.9
+  },
+  {
+   "id": "CPT6301",
+   "cat": "geral",
+   "categoria": "Controle de Portão",
+   "marca": "Portamax",
+   "nome": "Tag de proximidade",
+   "codigos": [
+    {
+     "c": "CPT6301",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "chaveiro",
+    "125 kHz"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CPT6301.jpg",
+   "novo": false,
+   "preco": 7.9,
+   "oferta": true
+  },
+  {
+   "id": "CPT6302",
+   "cat": "geral",
+   "categoria": "Controle de Portão",
+   "marca": "Portamax",
+   "nome": "Tag de proximidade",
+   "codigos": [
+    {
+     "c": "CPT6302",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "chaveiro",
+    "13,56 MHz"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CPT6302.jpg",
+   "novo": false,
+   "preco": 7.9
+  },
+  {
+   "id": "CAL7101",
+   "cat": "geral",
+   "categoria": "Controles de Alarme",
+   "marca": "Alarmetec",
+   "nome": "Controle de alarme",
+   "codigos": [
+    {
+     "c": "CAL7101",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "2 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CAL7101.jpg",
+   "novo": false,
+   "preco": 32.9
+  },
+  {
+   "id": "CAL7102",
+   "cat": "geral",
+   "categoria": "Controles de Alarme",
+   "marca": "Alarmetec",
+   "nome": "Controle de alarme",
+   "codigos": [
+    {
+     "c": "CAL7102",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "4 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CAL7102.jpg",
+   "novo": false,
+   "preco": 39.9
+  },
+  {
+   "id": "CAL7201",
+   "cat": "geral",
+   "categoria": "Controles de Alarme",
+   "marca": "Vigiax",
+   "nome": "Controle de alarme",
+   "codigos": [
+    {
+     "c": "CAL7201",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "3 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CAL7201.jpg",
+   "novo": false,
+   "preco": 34.9
+  },
+  {
+   "id": "CAL7202",
+   "cat": "geral",
+   "categoria": "Controles de Alarme",
+   "marca": "Vigiax",
+   "nome": "Controle de alarme",
+   "codigos": [
+    {
+     "c": "CAL7202",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "2 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CAL7202.jpg",
+   "novo": true,
+   "preco": 32.9
+  },
+  {
+   "id": "CAL7301",
+   "cat": "geral",
+   "categoria": "Controles de Alarme",
+   "marca": "Vigiax",
+   "nome": "Capa de silicone para controle",
+   "codigos": [
+    {
+     "c": "CAL7301",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "várias cores"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CAL7301.jpg",
+   "novo": false,
+   "preco": 4.9
+  },
+  {
+   "id": "CAL7302",
+   "cat": "geral",
+   "categoria": "Controles de Alarme",
+   "marca": "Vigiax",
+   "nome": "Capa de silicone para controle",
+   "codigos": [
+    {
+     "c": "CAL7302",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "várias cores"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CAL7302.jpg",
+   "novo": false,
+   "preco": 4.9
+  },
+  {
+   "id": "BT8101",
+   "cat": "geral",
+   "categoria": "Baterias e Botões",
+   "marca": "Voltix",
+   "nome": "Bateria 3V CR2032",
+   "codigos": [
+    {
+     "c": "BT8101",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "cartela com 5"
+   ],
+   "equiv": "",
+   "foto": "img/geral/BT8101.jpg",
+   "novo": false,
+   "preco": 14.9
+  },
+  {
+   "id": "BT8102",
+   "cat": "geral",
+   "categoria": "Baterias e Botões",
+   "marca": "Voltix",
+   "nome": "Bateria 3V CR2025",
+   "codigos": [
+    {
+     "c": "BT8102",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "cartela com 5"
+   ],
+   "equiv": "",
+   "foto": "img/geral/BT8102.jpg",
+   "novo": false,
+   "preco": 14.9
+  },
+  {
+   "id": "BT8103",
+   "cat": "geral",
+   "categoria": "Baterias e Botões",
+   "marca": "Voltix",
+   "nome": "Bateria 3V CR2016",
+   "codigos": [
+    {
+     "c": "BT8103",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "cartela com 5"
+   ],
+   "equiv": "",
+   "foto": "img/geral/BT8103.jpg",
+   "novo": false,
+   "preco": 14.9
+  },
+  {
+   "id": "BT8104",
+   "cat": "geral",
+   "categoria": "Baterias e Botões",
+   "marca": "Voltix",
+   "nome": "Bateria 3V CR1620",
+   "codigos": [
+    {
+     "c": "BT8104",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "cartela com 5"
+   ],
+   "equiv": "",
+   "foto": "img/geral/BT8104.jpg",
+   "novo": false,
+   "preco": 16.9,
+   "oferta": true
+  },
+  {
+   "id": "BT8201",
+   "cat": "geral",
+   "categoria": "Baterias e Botões",
+   "marca": "Universal",
+   "nome": "Botão de borracha para telecomando",
+   "codigos": [
+    {
+     "c": "BT8201",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "2 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/BT8201.jpg",
+   "novo": false,
+   "preco": 6.9
+  },
+  {
+   "id": "BT8202",
+   "cat": "geral",
+   "categoria": "Baterias e Botões",
+   "marca": "Universal",
+   "nome": "Botão de borracha para telecomando",
+   "codigos": [
+    {
+     "c": "BT8202",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "3 botões"
+   ],
+   "equiv": "",
+   "foto": "img/geral/BT8202.jpg",
+   "novo": false,
+   "preco": 7.9
+  },
+  {
+   "id": "FE9101",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Fortex",
+   "nome": "Fechadura externa",
+   "codigos": [
+    {
+     "c": "FE9101",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "cilindro yale",
+    "40 mm"
+   ],
+   "equiv": "",
+   "foto": "img/geral/FE9101.jpg",
+   "novo": false,
+   "preco": 89.9
+  },
+  {
+   "id": "FE9102",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Fortex",
+   "nome": "Fechadura externa com roseta",
+   "codigos": [
+    {
+     "c": "FE9102",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "latão"
+   ],
+   "equiv": "",
+   "foto": "img/geral/FE9102.jpg",
+   "novo": false,
+   "preco": 99.9
+  },
+  {
+   "id": "FE9103",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Fortex",
+   "nome": "Fechadura de sobrepor",
+   "codigos": [
+    {
+     "c": "FE9103",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/FE9103.jpg",
+   "novo": false,
+   "preco": 74.9
+  },
+  {
+   "id": "FE9104",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Fortex",
+   "nome": "Fechadura externa com roseta",
+   "codigos": [
+    {
+     "c": "FE9104",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "inox"
+   ],
+   "equiv": "",
+   "foto": "img/geral/FE9104.jpg",
+   "novo": false,
+   "preco": 94.9
+  },
+  {
+   "id": "FE9201",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Travamax",
+   "nome": "Fechadura digital de sobrepor",
+   "codigos": [
+    {
+     "c": "FE9201",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "senha e tag"
+   ],
+   "equiv": "",
+   "foto": "img/geral/FE9201.jpg",
+   "novo": true,
+   "preco": 389.9
+  },
+  {
+   "id": "CI9202",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Travamax",
+   "nome": "Cilindro para porta de aço",
+   "codigos": [
+    {
+     "c": "CI9202",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/CI9202.jpg",
+   "novo": false,
+   "preco": 54.9
+  },
+  {
+   "id": "FE9203",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Travamax",
+   "nome": "Fechadura externa",
+   "codigos": [
+    {
+     "c": "FE9203",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "latão"
+   ],
+   "equiv": "",
+   "foto": "img/geral/FE9203.jpg",
+   "novo": false,
+   "preco": 84.9
+  },
+  {
+   "id": "CD9204",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Travamax",
+   "nome": "Cadeado de aço",
+   "codigos": [
+    {
+     "c": "CD9204",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "50 mm",
+    "haste longa"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CD9204.jpg",
+   "novo": false,
+   "preco": 59.9
+  },
+  {
+   "id": "CD9301",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Seguralar",
+   "nome": "Cadeado de latão",
+   "codigos": [
+    {
+     "c": "CD9301",
+     "obs": "30mm"
+    },
+    {
+     "c": "CD9302",
+     "obs": "40mm",
+     "preco": 32.9
+    },
+    {
+     "c": "CD9303",
+     "obs": "50mm",
+     "preco": 44.9
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "",
+   "foto": "img/geral/CD9301.jpg",
+   "novo": false,
+   "preco": 24.9
+  },
+  {
+   "id": "CD9304",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Seguralar",
+   "nome": "Cadeado TSA para mala",
+   "codigos": [
+    {
+     "c": "CD9304",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "segredo de 3 dígitos"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CD9304.jpg",
+   "novo": false,
+   "preco": 39.9
+  },
+  {
+   "id": "CD9305",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Seguralar",
+   "nome": "Cadeado de latão pequeno",
+   "codigos": [
+    {
+     "c": "CD9305",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "20 mm"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CD9305.jpg",
+   "novo": false,
+   "preco": 18.9
+  },
+  {
+   "id": "CD9306",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Seguralar",
+   "nome": "Cadeado de aço",
+   "codigos": [
+    {
+     "c": "CD9306",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "40 mm"
+   ],
+   "equiv": "",
+   "foto": "img/geral/CD9306.jpg",
+   "novo": false,
+   "preco": 49.9
+  },
+  {
+   "id": "FT9601",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Ferrolux",
+   "nome": "Extrator de chave quebrada",
+   "codigos": [
+    {
+     "c": "FT9601",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "jogo com 6"
+   ],
+   "equiv": "",
+   "foto": "img/geral/FT9601.jpg",
+   "novo": false,
+   "preco": 49.9
+  },
+  {
+   "id": "FT9602",
+   "cat": "geral",
+   "categoria": "Ferragens",
+   "marca": "Ferrolux",
+   "nome": "Jogo de limas para chaveiro",
+   "codigos": [
+    {
+     "c": "FT9602",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [
+    "6 peças"
+   ],
+   "equiv": "",
+   "foto": "img/geral/FT9602.jpg",
+   "novo": false,
+   "preco": 59.9
+  },
+  {
+   "id": "Y2101",
+   "cat": "chaves",
+   "categoria": "Chaves Yale",
+   "marca": "Fortex",
+   "nome": "Fortex fechadura externa",
+   "codigos": [
+    {
+     "c": "Y2101",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 2101",
+   "foto": "img/chaves/Y2101.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "Y2102",
+   "cat": "chaves",
+   "categoria": "Chaves Yale",
+   "marca": "Fortex",
+   "nome": "Fortex cadeado",
+   "codigos": [
+    {
+     "c": "Y2102",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 2102",
+   "foto": "img/chaves/Y2102.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "Y2103",
+   "cat": "chaves",
+   "categoria": "Chaves Yale",
+   "marca": "Fortex",
+   "nome": "Fortex porta de vidro",
+   "codigos": [
+    {
+     "c": "Y2103",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 2103",
+   "foto": "img/chaves/Y2103.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "Y2201",
+   "cat": "chaves",
+   "categoria": "Chaves Yale",
+   "marca": "Travamax",
+   "nome": "Travamax fechadura",
+   "codigos": [
+    {
+     "c": "Y2201",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 2201",
+   "foto": "img/chaves/Y2201.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "Y2202",
+   "cat": "chaves",
+   "categoria": "Chaves Yale",
+   "marca": "Travamax",
+   "nome": "Travamax porta de aço",
+   "codigos": [
+    {
+     "c": "Y2202",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 2202",
+   "foto": "img/chaves/Y2202.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "Y2203",
+   "cat": "chaves",
+   "categoria": "Chaves Yale",
+   "marca": "Travamax",
+   "nome": "Travamax cilindro",
+   "codigos": [
+    {
+     "c": "Y2203",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "TR 2203",
+   "foto": "img/chaves/Y2203.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "Y2301",
+   "cat": "chaves",
+   "categoria": "Chaves Yale",
+   "marca": "Seguralar",
+   "nome": "Seguralar cadeado 30 mm",
+   "codigos": [
+    {
+     "c": "Y2301",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 2301",
+   "foto": "img/chaves/Y2301.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "Y2302",
+   "cat": "chaves",
+   "categoria": "Chaves Yale",
+   "marca": "Seguralar",
+   "nome": "Seguralar cadeado 40 mm",
+   "codigos": [
+    {
+     "c": "Y2302",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 2302",
+   "foto": "img/chaves/Y2302.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "Y2401",
+   "cat": "chaves",
+   "categoria": "Chaves Yale",
+   "marca": "Lumina",
+   "nome": "Lumina fechadura",
+   "codigos": [
+    {
+     "c": "Y2401",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "TR 2401",
+   "foto": "img/chaves/Y2401.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "Y2501",
+   "cat": "chaves",
+   "categoria": "Chaves Yale",
+   "marca": "Ferrolux",
+   "nome": "Ferrolux fechadura",
+   "codigos": [
+    {
+     "c": "Y2501",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "TR 2501",
+   "foto": "img/chaves/Y2501.jpg",
+   "novo": true,
+   "preco": null
+  },
+  {
+   "id": "Y2601",
+   "cat": "chaves",
+   "categoria": "Chaves Yale",
+   "marca": "Portamax",
+   "nome": "Portamax portão",
+   "codigos": [
+    {
+     "c": "Y2601",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 2601",
+   "foto": "img/chaves/Y2601.jpg",
+   "novo": false,
+   "preco": 5.5,
+   "oferta": true
+  },
+  {
+   "id": "Y2701",
+   "cat": "chaves",
+   "categoria": "Chaves Yale",
+   "marca": "Universal",
+   "nome": "Universal 5 pinos",
+   "codigos": [
+    {
+     "c": "Y2701",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 2701",
+   "foto": "img/chaves/Y2701.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "T3101",
+   "cat": "chaves",
+   "categoria": "Chaves Tetra",
+   "marca": "Fortex",
+   "nome": "Fortex tetra",
+   "codigos": [
+    {
+     "c": "T3101",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 3101",
+   "foto": "img/chaves/T3101.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "T3201",
+   "cat": "chaves",
+   "categoria": "Chaves Tetra",
+   "marca": "Travamax",
+   "nome": "Travamax tetra",
+   "codigos": [
+    {
+     "c": "T3201",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 3201",
+   "foto": "img/chaves/T3201.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "T3301",
+   "cat": "chaves",
+   "categoria": "Chaves Tetra",
+   "marca": "Seguralar",
+   "nome": "Seguralar tetra",
+   "codigos": [
+    {
+     "c": "T3301",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "TR 3301",
+   "foto": "img/chaves/T3301.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "T3401",
+   "cat": "chaves",
+   "categoria": "Chaves Tetra",
+   "marca": "Lumina",
+   "nome": "Lumina tetra",
+   "codigos": [
+    {
+     "c": "T3401",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "TR 3401",
+   "foto": "img/chaves/T3401.jpg",
+   "novo": true,
+   "preco": null
+  },
+  {
+   "id": "G4101",
+   "cat": "chaves",
+   "categoria": "Chaves Gorja",
+   "marca": "Fortex",
+   "nome": "Gorja modelada",
+   "codigos": [
+    {
+     "c": "G4101",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 4101",
+   "foto": "img/chaves/G4101.jpg",
+   "novo": false,
+   "preco": 9.9
+  },
+  {
+   "id": "G4102",
+   "cat": "chaves",
+   "categoria": "Chaves Gorja",
+   "marca": "Fortex",
+   "nome": "Gorja modelada longa",
+   "codigos": [
+    {
+     "c": "G4102",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 4102",
+   "foto": "img/chaves/G4102.jpg",
+   "novo": false,
+   "preco": 9.9
+  },
+  {
+   "id": "G4201",
+   "cat": "chaves",
+   "categoria": "Chaves Gorja",
+   "marca": "Seguralar",
+   "nome": "Gorja para cofre",
+   "codigos": [
+    {
+     "c": "G4201",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "TR 4201",
+   "foto": "img/chaves/G4201.jpg",
+   "novo": false,
+   "preco": 11.9
+  },
+  {
+   "id": "G4202",
+   "cat": "chaves",
+   "categoria": "Chaves Gorja",
+   "marca": "Seguralar",
+   "nome": "Gorja para portão antigo",
+   "codigos": [
+    {
+     "c": "G4202",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "TR 4202",
+   "foto": "img/chaves/G4202.jpg",
+   "novo": false,
+   "preco": 11.9
+  },
+  {
+   "id": "P5101",
+   "cat": "chaves",
+   "categoria": "Chave Auto Plástica",
+   "marca": "Fiat",
+   "nome": "Fiat",
+   "codigos": [
+    {
+     "c": "P5101",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 5101",
+   "foto": "img/chaves/P5101.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "P5102",
+   "cat": "chaves",
+   "categoria": "Chave Auto Plástica",
+   "marca": "Fiat",
+   "nome": "Fiat",
+   "codigos": [
+    {
+     "c": "P5102",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 5102",
+   "foto": "img/chaves/P5102.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "P5201",
+   "cat": "chaves",
+   "categoria": "Chave Auto Plástica",
+   "marca": "Volkswagen",
+   "nome": "Volkswagen",
+   "codigos": [
+    {
+     "c": "P5201",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 5201",
+   "foto": "img/chaves/P5201.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "P5301",
+   "cat": "chaves",
+   "categoria": "Chave Auto Plástica",
+   "marca": "GM / Chevrolet",
+   "nome": "GM / Chevrolet",
+   "codigos": [
+    {
+     "c": "P5301",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "MX 5301",
+   "foto": "img/chaves/P5301.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "P5401",
+   "cat": "chaves",
+   "categoria": "Chave Auto Plástica",
+   "marca": "Ford",
+   "nome": "Ford",
+   "codigos": [
+    {
+     "c": "P5401",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "TR 5401",
+   "foto": "img/chaves/P5401.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "P5402",
+   "cat": "chaves",
+   "categoria": "Chave Auto Plástica",
+   "marca": "Ford",
+   "nome": "Ford",
+   "codigos": [
+    {
+     "c": "P5402",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "TR 5402",
+   "foto": "img/chaves/P5402.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "P5501",
+   "cat": "chaves",
+   "categoria": "Chave Auto Plástica",
+   "marca": "Honda",
+   "nome": "Honda moto",
+   "codigos": [
+    {
+     "c": "P5501",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "TR 5501",
+   "foto": "img/chaves/P5501.jpg",
+   "novo": false,
+   "preco": null
+  },
+  {
+   "id": "P5601",
+   "cat": "chaves",
+   "categoria": "Chave Auto Plástica",
+   "marca": "Yamaha",
+   "nome": "Yamaha moto",
+   "codigos": [
+    {
+     "c": "P5601",
+     "obs": ""
+    }
+   ],
+   "aplicacao": "",
+   "tags": [],
+   "equiv": "TR 5601",
+   "foto": "img/chaves/P5601.jpg",
+   "novo": false,
+   "preco": null,
+   "esgotado": true
+  }
+ ],
+ "cats": {
+  "geral": [
+   {
+    "nome": "Carcaças",
+    "desc": "Carcaças canivete (CC) e presença (CP), por montadora"
+   },
+   {
+    "nome": "Chave Completa",
+    "desc": "Chave pronta com placa e transponder (CHC)"
+   },
+   {
+    "nome": "Chave Gaveta",
+    "desc": "Chaves gaveta por montadora, com o modelo de aplicação"
+   },
+   {
+    "nome": "Chave Gaveta Moto",
+    "desc": "Chaves gaveta para motos"
+   },
+   {
+    "nome": "Controle de Portão",
+    "desc": "Controles clonadores 433 MHz e tags de proximidade"
+   },
+   {
+    "nome": "Controles de Alarme",
+    "desc": "Controles e capas para alarme automotivo"
+   },
+   {
+    "nome": "Baterias e Botões",
+    "desc": "Baterias em cartela e botões de reposição"
+   },
+   {
+    "nome": "Ferragens",
+    "desc": "Fechaduras, cadeados, cilindros e ferramentas para chaveiro"
+   }
+  ],
+  "chaves": [
+   {
+    "nome": "Chaves Yale",
+    "desc": "Chaves para fechaduras e cadeados, por fabricante",
+    "preco": 6.9
+   },
+   {
+    "nome": "Chaves Tetra",
+    "desc": "Chaves tetra, por fabricante",
+    "preco": 11.9
+   },
+   {
+    "nome": "Chaves Gorja",
+    "desc": "Chaves gorja modeladas"
+   },
+   {
+    "nome": "Chave Auto Plástica",
+    "desc": "Chaves com cabeça plástica para carro e moto",
+    "preco": 14.9
+   }
+  ]
+ }
+}
